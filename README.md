@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-# Developed By: PAVANA.G
-# Register Number: 212222230105
+# Developed By: Berjin 
+# Register Number: 212222240018
 
 ## Grayscale image and Color image:
 ```python
